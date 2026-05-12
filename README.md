@@ -36,4 +36,5 @@ This project analyzes 38K+ bank loan records using SQL and Power BI to identify 
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot here after upload)
+
+<img width="1164" height="653" alt="image" src="https://github.com/user-attachments/assets/c3107f19-cdb3-471b-b632-677703b160e6" />
